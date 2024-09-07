@@ -53,9 +53,7 @@ Reviewed: No
     - **Multicast Address:** `224.0.0.102` (same as HSRP v2).
     - **Virtual MAC Address Format:** `0007 b400 XXXXYY` (XXXX is the group number and YY is the AVF number in hexadecimal).
     
-    ![image.png](Day%2029%20-%20First%20Hop%20Redundancy%20Protocol%20(FHRP)%20beff0ac8d3fa4c62a7393b93c0fd1431/image.png)
-    
-
+![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/526c2ac0-ffd7-43fe-aebc-c8bd23ab136d/a7c314ae-addf-4778-a12f-4b9656d2aeb2/image.png)    
 ### **4. Basic Configuration of HSRP:**
 
 - **Commands:**
