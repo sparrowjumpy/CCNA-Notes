@@ -1,3 +1,36 @@
+# CCNA Notes - Jeremy's IT Lab YouTube Series
+
+## About
+
+These notes are based on the [Jeremy's IT Lab CCNA series on YouTube](https://www.youtube.com/c/JeremysITLab). The series covers the topics required for the **Cisco Certified Network Associate (CCNA)** certification. The notes are structured in the same order as the video series and provide key points, commands, and explanations to help you study and revise.
+
+## Notes Structure
+
+The notes are organized by topics and days that correspond with the lessons from the YouTube series. Each file contains detailed notes and commands for the corresponding lesson, including practical examples and configurations.
+
+I will be updating these notes regularly as I progress through the series and enhance the content.
+
+## Updates
+
+The notes will be updated as I study more and add further details. Keep an eye on this repository for more notes, updates, and additional learning materials!
+
+## Content Overview
+
+1. **Day 8 - IPv4 Addressing (Part 2)**: [Day 8 - IPv4 Addressing (Part 2)](Day%208%20-%20IPv4%20Addressing%20(Part%202).md)
+2. **Day 9 - Switch Interfaces**: [Day 9 - Switch Interfaces](Day%209%20-%20Switch%20Interfaces.md)
+3. **Day 10 - IPv4 Header**: [Day 10 - IPv4 Header](Day%2010%20-%20IPv4%20Header.md)
+4. **Day 16 - VLANs Part 1**: [Day 16 - VLANs Part 1](Day%2016%20-%20VLANs%20Part%201.md)
+5. **Day 17 - VLANs Part 2**: [Day 17 - VLANs Part 2](Day%2017%20-%20VLANs%20Part%202.md)
+6. **... and more to come!**
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+If you have any suggestions or corrections, feel free to open an issue or submit a pull request. I hope these notes help you as much as they are helping me!
+
 # CCNA Notes Index
 
 1. [Day 8 - IPv4 Addressing (Part 2)](Day%208%20-%20IPv4%20Addressing%20(Part%202).md)
