@@ -16,23 +16,6 @@ The notes will be updated as I study more and add further details. Keep an eye o
 
 ## Content Overview
 
-1. **Day 8 - IPv4 Addressing (Part 2)**: [Day 8 - IPv4 Addressing (Part 2)](Day%208%20-%20IPv4%20Addressing%20(Part%202).md)
-2. **Day 9 - Switch Interfaces**: [Day 9 - Switch Interfaces](Day%209%20-%20Switch%20Interfaces.md)
-3. **Day 10 - IPv4 Header**: [Day 10 - IPv4 Header](Day%2010%20-%20IPv4%20Header.md)
-4. **Day 16 - VLANs Part 1**: [Day 16 - VLANs Part 1](Day%2016%20-%20VLANs%20Part%201.md)
-5. **Day 17 - VLANs Part 2**: [Day 17 - VLANs Part 2](Day%2017%20-%20VLANs%20Part%202.md)
-6. **... and more to come!**
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-If you have any suggestions or corrections, feel free to open an issue or submit a pull request. I hope these notes help you as much as they are helping me!
-
-# CCNA Notes Index
-
 1. [Day 8 - IPv4 Addressing (Part 2)](Day%208%20-%20IPv4%20Addressing%20(Part%202).md)
 2. [Day 9 - Switch Interfaces](Day%209%20-%20Switch%20Interfaces.md)
 3. [Day 10 - IPv4 Header](Day%2010%20-%20IPv4%20Header.md)
@@ -60,3 +43,12 @@ If you have any suggestions or corrections, feel free to open an issue or submit
 25. [Day 36 - CDP & LLDP](Day%2036%20-%20CDP%20%26%20LLDP.md)
 26. [Day 37 - NTP](Day%2037%20-%20NTP.md)
 27. [Day 38 - DNS](Day%2038%20-%20DNS.md)
+**... and more to come!**
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+If you have any suggestions or corrections, feel free to open an issue or submit a pull request. I hope these notes help you as much as they are helping me!
