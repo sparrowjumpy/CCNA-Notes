@@ -52,8 +52,8 @@ Reviewed: No
         - **AVF (Active Virtual Forwarder):** Forwards traffic for a portion of the hosts in the subnet.
     - **Multicast Address:** `224.0.0.102` (same as HSRP v2).
     - **Virtual MAC Address Format:** `0007 b400 XXXXYY` (XXXX is the group number and YY is the AVF number in hexadecimal).
-    
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/526c2ac0-ffd7-43fe-aebc-c8bd23ab136d/a7c314ae-addf-4778-a12f-4b9656d2aeb2/image.png)    
+![fhrp](https://github.com/user-attachments/assets/24103ce4-966a-40ae-872d-6ffdb7587ef1)
+
 ### **4. Basic Configuration of HSRP:**
 
 - **Commands:**
