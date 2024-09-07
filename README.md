@@ -2,7 +2,7 @@
 
 ## About
 
-These notes are based on the [Jeremy's IT Lab CCNA series on YouTube](https://www.youtube.com/c/JeremysITLab). The series covers the topics required for the **Cisco Certified Network Associate (CCNA)** certification. The notes are structured in the same order as the video series and provide key points, commands, and explanations to help you study and revise.
+These notes are based on the [Jeremy's IT Lab CCNA series on YouTube](https://www.youtube.com/watch?v=H8W9oMNSuwo&list=PLxbwE86jKRgMpuZuLBivzlM8s2Dk5lXBQ&pp=iAQB). The series covers the topics required for the **Cisco Certified Network Associate (CCNA)** certification. The notes are structured in the same order as the video series and provide key points, commands, and explanations to help you study and revise.
 
 ## Notes Structure
 
